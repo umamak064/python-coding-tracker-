@@ -62,11 +62,11 @@ Everything is stored locally in a simple JSON file (`practice_log.json`) — no 
 
 ---
 
-## Getting Started
+##  Getting Started
 
-### 1. Clone the Repository
-```bash
+1. Clone the Repository
 git clone https://github.com/umamak064/python-coding-tracker.git
+cd python-coding-tracker
 
 2. Install Dependencies
 pip install streamlit
@@ -74,9 +74,9 @@ pip install streamlit
 3. Run the App
 streamlit run practice_tracker_app.py
 
-Author
-**Umama Khan**  
+
+
+## Author
+
+Umama Khan
 📧 Email: umamasaeed.214@gmail.com
-
-cd python-practice-tracker
-
